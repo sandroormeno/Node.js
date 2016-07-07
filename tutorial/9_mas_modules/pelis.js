@@ -1,5 +1,5 @@
 // ESTO ES LO  mismo, pero se pone solo lo que queremos exportar
-
+// noten que está en formato json
 module.exports = {
     imprimirAvatar: function(){
         console.log("Avatar : PG-13....");
